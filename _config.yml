@@ -11,6 +11,9 @@ author: John Doe
 language: en
 timezone: ''
 
+# 主页banner图
+banner: http://47.101.142.39:8090/upload/2023/01/3.jpg
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
